@@ -1,0 +1,12 @@
+#ignore all backup files
+*.bak
+#ignore all org files
+*.org
+#ignore all class files
+*.class
+#ignore files starting with a,e,i,o and u
+[aeiou]*.txt
+#ignore .php files
+*.php
+#Do not ignore this file 
+!index.php
